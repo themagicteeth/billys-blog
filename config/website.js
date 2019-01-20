@@ -11,13 +11,13 @@ module.exports = {
 
   // JSONLD / Manifest
   favicon: 'src/favicon.png', // Used for manifest favicon generation
-  shortName: 'Prismic', // shortname for manifest. MUST be shorter than 12 characters
-  author: 'LekoArts', // Author for schemaORGJSONLD
+  shortName: 'Billy', // shortname for manifest. MUST be shorter than 12 characters
+  author: 'Billy', // Author for schemaORGJSONLD
   themeColor: '#3D63AE',
   backgroundColor: '#EBEDF2',
 
-  twitter: '@starter_prismicio', // Twitter Username
-  facebook: 'gatsby-prismic', // Facebook Site Name
+  twitter: '', // Twitter Username
+  facebook: '', // Facebook Site Name
 
   skipNavId: 'reach-skip-nav', // ID for the "Skip to content" a11y feature
 }
